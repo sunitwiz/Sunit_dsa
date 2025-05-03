@@ -1,3 +1,5 @@
+/*
+    https://www.metacareers.com/profile/coding_puzzles?puzzle=316794079975021*/
 #pragma GCC optimization("O3")
 #pragma GCC optimization("unroll-loops")
 #include <bits/stdc++.h>
